@@ -1,6 +1,6 @@
-############# Linear Algebra #############
-####### Author: aalp75 ########
-####### Edited in 2020 ########
+## Linear Algebra
+## Author: aalp75
+## Edited in 2020
 
 
 Contents
@@ -8,12 +8,12 @@ I   - Linear Algebra
 II  - Functions
 III  - Performance
 
-I - Linear Algebra
+# I - Linear Algebra
 
 This Notebook LinearAlgebra.ipypn contains all basic algorithlm for Linear Algebra.
 It worked with numpy
 
-II - Functions
+# II - Functions
 
 Here is the list of functions
 
@@ -31,8 +31,7 @@ Here is the list of functions
 
 - eigen(A) : Find the eigenvalues and eigenvectors of A if the matrix is diagonalizable
 
-
-III - Performance
+# III - Performance
 
 The determinant of a matrix (1000,1000) is calculate in approximatively 2 seconds with the gaussian Elimination
 
