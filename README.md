@@ -1,12 +1,12 @@
-## Linear Algebra
-## Author: aalp75
-## Edited in 2020
+Linear Algebra\
+Author: aalp75\
+Edited in 2020
 
 
-Contents
-I   - Linear Algebra
-II  - Functions
-III  - Performance
+Contents\
+I   - Linear Algebra\
+II  - Functions\
+III  - Performance\
 
 # I - Linear Algebra
 
